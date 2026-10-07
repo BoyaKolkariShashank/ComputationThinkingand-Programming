@@ -1,15 +1,18 @@
-Coordination is not only about body movements; it also happens in our thinking and mental activities.
-
-It helps us organize and control mental processes like attention, emotions, and intentions.
-
-Cognitive coordination allows us to balance beliefs, ideas, and judgments in a clear and stable way.
-
-It supports combining different thinking skills such as analytical (breaking down) and synthetic (connecting) thinking.
-
-This improves problem-solving, decision-making, and overall understanding of situations.
+Viva Questions & Answers 
 
 
 
+What is a list in Python?
+A list stores multiple values in memory and supports direct access to its elements.
 
+What is a generator?
+A generator produces values one at a time using lazy evaluation.
 
-2200031376
+What is the main difference between a list and a generator?
+A list stores all results immediately, while a generator produces results only when needed.
+
+Why is time.perf_counter() used?
+It is used to measure the execution time of the program accurately.
+
+Why is tracemalloc used?
+tracemalloc is used to measure the memory allocated by Python during program execution.
